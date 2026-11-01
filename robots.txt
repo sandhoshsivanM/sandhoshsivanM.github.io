@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://sandhoshsivanm.github.io/sitemap.xml
